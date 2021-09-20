@@ -23,3 +23,5 @@ ____________________________
 
 |   Feature      |  Data Type   | Description    |
 | :------------- | :----------: | -----------: |
+| age | int64 | age of patient|
+
